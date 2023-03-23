@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-electronics/static/css/main.9a314514.css",
+    "main.js": "/react-electronics/static/js/main.f6026f75.js",
+    "static/media/logo.svg": "/react-electronics/static/media/logo.6172109437bb6cb48eb8dc1f65c9964c.svg",
+    "static/media/slick.svg": "/react-electronics/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/react-electronics/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/react-electronics/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/react-electronics/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/react-electronics/index.html",
+    "main.9a314514.css.map": "/react-electronics/static/css/main.9a314514.css.map",
+    "main.f6026f75.js.map": "/react-electronics/static/js/main.f6026f75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a314514.css",
+    "static/js/main.f6026f75.js"
+  ]
+}
